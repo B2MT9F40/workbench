@@ -6,3 +6,4 @@
 REPORT ZPRG_B2M.
 write : / 'this is my first txt'.
 * comment toto fin
+message s398(00) with 'done in se80'.
